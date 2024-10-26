@@ -1,0 +1,2139 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "未初始化变量 Q3DCurve::color1。始终初始化成员变量(type.6)。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.h"
+                },
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 1,
+                  "endLine": 40,
+                  "endColumn": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Q3DCurve@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Q3DCurve::color1"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "未初始化变量 Q3DCurve::color2。始终初始化成员变量(type.6)。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.h"
+                },
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 1,
+                  "endLine": 40,
+                  "endColumn": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Q3DCurve@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Q3DCurve::color2"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "未初始化变量 Q3DCurve::x1。始终初始化成员变量(type.6)。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.h"
+                },
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 1,
+                  "endLine": 40,
+                  "endColumn": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Q3DCurve@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Q3DCurve::x1"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "未初始化变量 Q3DCurve::x2。始终初始化成员变量(type.6)。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.h"
+                },
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 1,
+                  "endLine": 40,
+                  "endColumn": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Q3DCurve@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Q3DCurve::x2"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "未初始化变量 Q3DCurve::y1。始终初始化成员变量(type.6)。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.h"
+                },
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 1,
+                  "endLine": 40,
+                  "endColumn": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Q3DCurve@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Q3DCurve::y1"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "未初始化变量 Q3DCurve::y2。始终初始化成员变量(type.6)。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.h"
+                },
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 1,
+                  "endLine": 40,
+                  "endColumn": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Q3DCurve@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Q3DCurve::y2"
+          }
+        },
+        {
+          "ruleId": "C6386",
+          "message": {
+            "text": "写入到“curve.link”时缓冲区溢出: 可写大小为“(unsigned int)*24”个字节，但可能写入了“96”个字节。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                },
+                "region": {
+                  "startLine": 459,
+                  "startColumn": 4,
+                  "endLine": 459,
+                  "endColumn": 101
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?AddCurve@QGraph3D@@QAEHPAM0P6A_NMM@ZP6AHM0@Z2P6A_NMM0@ZHH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 394,
+                            "startColumn": 11
+                          }
+                        },
+                        "message": {
+                          "text": "“curve”接收来自“Q3DCurve::{ctor}”的返回值(在 d:\\vsproject\\qfui\\qfui3d\\qfgraph3d.h:40 处声明)"
+                        }
+                      },
+                      "kinds": [
+                        "declaration"
+                      ],
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 277,
+                            "startColumn": 16
+                          }
+                        },
+                        "message": {
+                          "text": "跳过此分支(假定“xRange[0]>xRange[1]”为 false)"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ],
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 278,
+                            "startColumn": 16
+                          }
+                        },
+                        "message": {
+                          "text": "跳过此分支(假定“yRange[0]>yRange[1]”为 false)"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ],
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 279,
+                            "startColumn": 6
+                          }
+                        },
+                        "message": {
+                          "text": "跳过此分支(假定“!dd”为 false)"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ],
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 280,
+                            "startColumn": 6
+                          }
+                        },
+                        "message": {
+                          "text": "跳过此分支(假定“!ddy”为 false)"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ],
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 281,
+                            "startColumn": 6
+                          }
+                        },
+                        "message": {
+                          "text": "跳过此分支(假定“!ddx”为 false)"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ],
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 282,
+                            "startColumn": 6
+                          }
+                        },
+                        "message": {
+                          "text": "跳过此分支(假定“!getZ”为 false)"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ],
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 283,
+                            "startColumn": 21
+                          }
+                        },
+                        "message": {
+                          "text": "跳过此分支(假定“numVerticesX<1||numVerticesY<1”为 false)"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ],
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 284,
+                            "startColumn": 8
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 285,
+                            "startColumn": 8
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 286,
+                            "startColumn": 8
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 287,
+                            "startColumn": 8
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 289,
+                            "startColumn": 8
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 292,
+                            "startColumn": 20
+                          }
+                        },
+                        "message": {
+                          "text": "跳过此分支(假定“m_visualHeigh<vta”为 false)"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ],
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 324,
+                            "startColumn": 8
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 325,
+                            "startColumn": 8
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 326,
+                            "startColumn": 29
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 327,
+                            "startColumn": 6
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 328,
+                            "startColumn": 6
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 332,
+                            "startColumn": 11
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 332,
+                            "startColumn": 20
+                          }
+                        },
+                        "message": {
+                          "text": "跳过此循环(假定“j<numVY-1”为 false)"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ],
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 381,
+                            "startColumn": 16
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 381,
+                            "startColumn": 23
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 381,
+                            "startColumn": 31
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 384,
+                            "startColumn": 8
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 385,
+                            "startColumn": 30
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 388,
+                            "startColumn": 8
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 389,
+                            "startColumn": 8
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 391,
+                            "startColumn": 7
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 392,
+                            "startColumn": 13
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 394,
+                            "startColumn": 11
+                          }
+                        },
+                        "message": {
+                          "text": "“curve”接收来自“Q3DCurve::{ctor}”的返回值(在 d:\\vsproject\\qfui\\qfui3d\\qfgraph3d.h:40 处声明)"
+                        }
+                      },
+                      "kinds": [
+                        "declaration"
+                      ],
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 395,
+                            "startColumn": 15
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 396,
+                            "startColumn": 15
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 397,
+                            "startColumn": 10
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 398,
+                            "startColumn": 12
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 399,
+                            "startColumn": 12
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 400,
+                            "startColumn": 13
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 401,
+                            "startColumn": 21
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 402,
+                            "startColumn": 21
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 403,
+                            "startColumn": 11
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 404,
+                            "startColumn": 11
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 405,
+                            "startColumn": 11
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 406,
+                            "startColumn": 11
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 407,
+                            "startColumn": 6
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 408,
+                            "startColumn": 26
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 410,
+                            "startColumn": 34
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 414,
+                            "startColumn": 13
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 416,
+                            "startColumn": 19
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 417,
+                            "startColumn": 6
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 418,
+                            "startColumn": 6
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 419,
+                            "startColumn": 6
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 420,
+                            "startColumn": 8
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 421,
+                            "startColumn": 8
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 422,
+                            "startColumn": 8
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 423,
+                            "startColumn": 18
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 424,
+                            "startColumn": 11
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 424,
+                            "startColumn": 20
+                          }
+                        },
+                        "message": {
+                          "text": "进入此循环(假定“i<output.numberoftriangles”)"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ],
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 425,
+                            "startColumn": 15
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 426,
+                            "startColumn": 8
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 427,
+                            "startColumn": 12
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 427,
+                            "startColumn": 21
+                          }
+                        },
+                        "message": {
+                          "text": "进入此循环(假定“j<3”)"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ],
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 428,
+                            "startColumn": 8
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 430,
+                            "startColumn": 11
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 431,
+                            "startColumn": 11
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 432,
+                            "startColumn": 10
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 433,
+                            "startColumn": 8
+                          }
+                        },
+                        "message": {
+                          "text": "跳过此分支(假定“!*getZ(x, y, &z)”为 false)"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ],
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 437,
+                            "startColumn": 12
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 438,
+                            "startColumn": 12
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 439,
+                            "startColumn": 12
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 427,
+                            "startColumn": 26
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 427,
+                            "startColumn": 21
+                          }
+                        },
+                        "message": {
+                          "text": "进入此循环(假定“j<3”)"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ],
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 428,
+                            "startColumn": 8
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 430,
+                            "startColumn": 11
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 431,
+                            "startColumn": 11
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 432,
+                            "startColumn": 10
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 433,
+                            "startColumn": 8
+                          }
+                        },
+                        "message": {
+                          "text": "跳过此分支(假定“!*getZ(x, y, &z)”为 false)"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ],
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 437,
+                            "startColumn": 12
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 438,
+                            "startColumn": 12
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 439,
+                            "startColumn": 12
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 427,
+                            "startColumn": 26
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 427,
+                            "startColumn": 21
+                          }
+                        },
+                        "message": {
+                          "text": "进入此循环(假定“j<3”)"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ],
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 441,
+                            "startColumn": 7
+                          }
+                        },
+                        "message": {
+                          "text": "进入此分支(假定“!isErr”)"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ],
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 442,
+                            "startColumn": 4
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 444,
+                            "startColumn": 8
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 445,
+                            "startColumn": 8
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 446,
+                            "startColumn": 8
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 447,
+                            "startColumn": 10
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 448,
+                            "startColumn": 10
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 449,
+                            "startColumn": 13
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 452,
+                            "startColumn": 18
+                          }
+                        },
+                        "message": {
+                          "text": "进入此分支(假定“minZ>mi||minZ<0.000000”)"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ],
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 453,
+                            "startColumn": 10
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 456,
+                            "startColumn": 40
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 457,
+                            "startColumn": 40
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 458,
+                            "startColumn": 40
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 459,
+                            "startColumn": 21
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 460,
+                            "startColumn": 21
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 461,
+                            "startColumn": 21
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 424,
+                            "startColumn": 48
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 424,
+                            "startColumn": 20
+                          }
+                        },
+                        "message": {
+                          "text": "继续此循环(假定“i<output.numberoftriangles”)"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ],
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 425,
+                            "startColumn": 15
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 426,
+                            "startColumn": 8
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 427,
+                            "startColumn": 12
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 427,
+                            "startColumn": 21
+                          }
+                        },
+                        "message": {
+                          "text": "继续此循环(假定“j<3”)"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ],
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 441,
+                            "startColumn": 7
+                          }
+                        },
+                        "message": {
+                          "text": "进入此分支(假定“!isErr”)"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ],
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 442,
+                            "startColumn": 4
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 444,
+                            "startColumn": 8
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 445,
+                            "startColumn": 8
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 446,
+                            "startColumn": 8
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 447,
+                            "startColumn": 10
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 448,
+                            "startColumn": 10
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 449,
+                            "startColumn": 13
+                          }
+                        },
+                        "message": {
+                          "text": "跳过此分支(假定“maxZ<m”为 false)"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ],
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 452,
+                            "startColumn": 18
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 456,
+                            "startColumn": 40
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 457,
+                            "startColumn": 40
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 458,
+                            "startColumn": 40
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                          },
+                          "region": {
+                            "startLine": 459,
+                            "startColumn": 21
+                          }
+                        },
+                        "message": {
+                          "text": "写入到“curve.link[3]”无效(可写范围是 0 到 2)"
+                        }
+                      },
+                      "kinds": [
+                        "usage"
+                      ],
+                      "importance": "essential"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26451",
+          "message": {
+            "text": "算术溢出: 使用 4 字节值上的运算符 - ，然后将结果转换到 8 字节值。在调用运算符 - 之前将值强制转换为宽类型可避免溢出(io.2)。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                },
+                "region": {
+                  "startLine": 1277,
+                  "startColumn": 12,
+                  "endLine": 1277,
+                  "endColumn": 26
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?DefineDomain@@YA_NMM@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26451",
+          "message": {
+            "text": "算术溢出: 使用 4 字节值上的运算符 - ，然后将结果转换到 8 字节值。在调用运算符 - 之前将值强制转换为宽类型可避免溢出(io.2)。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+                },
+                "region": {
+                  "startLine": 1277,
+                  "startColumn": 12,
+                  "endLine": 1277,
+                  "endColumn": 18
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?DefineDomain@@YA_NMM@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.29.30146.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "commandLine": "D:\\VS2019\\IDE\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX86\\x86\\c1xx.dll -ACf{1F7B090C-16DB-4822-966A-A93D26ED4681} -ACpmspft140.dll -Alint -D_PREFAST_ -D_AST_FE_ -Analyze -zm0x0115D1C0 -il C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\_CL_bfa7fcd8ast -typedil -f QFGraph3D.cpp -Ze -D_MSC_EXTENSIONS -Zp8 -Gs -pc \\:/ -D_MSC_VER=1929 -D_MSC_FULL_VER=192930146 -D_MSC_BUILD=0 -D_WIN32 -D_M_IX86=600 -D_M_IX86_FP=2 -GR -D_CPPRTTI -I D:\\VSproject\\QFUI\\QFUI -nologo -W 3 -diagnostics:column -D_GUARDOVERFLOW_CRT_ALLOCATORS=1 -Ot -DCODE_ANALYSIS -DWIN32 -D_DEBUG -DQFUI3D_EXPORTS -D_WINDOWS -D_USRDLL -D_WINDLL -D_UNICODE -DUNICODE -EHs -D_CPPUNWIND -EHc -D__MSVC_RUNTIME_CHECKS -RTCs -RTCu -MDd -D_DEBUG -D_MT -D_DLL -GS -D_M_FP_PRECISE -permissive- -Zc:wchar_t -Zc:forScope -std:c++20 -FoDebug\\QFGraph3D.obj -FdDebug\\vc142.pdb -external:W 3 -Gd -analyze:projectdirectory D:\\VSproject\\QFUI\\QFUI3D -analyze:rulesetdirectory ;D:\\VS2019\\IDE\\Team Tools\\Static Analysis Tools\\\\Rule Sets; -analyze:ruleset D:\\VS2019\\IDE\\Team Tools\\Static Analysis Tools\\Rule Sets\\NativeRecommendedRules.ruleset -analyze:quiet -analyze:plugin D:\\VS2019\\IDE\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX86\\x86\\EspXEngine.dll -FC -errorreport:prompt -I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\um -I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\shared -I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\winrt -I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\cppwinrt -I C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\Include\\um -I D:\\VS2019\\IDE\\VC\\Tools\\MSVC\\14.29.30133\\include -I D:\\VS2019\\IDE\\VC\\Tools\\MSVC\\14.29.30133\\atlmfc\\include -I D:\\VS2019\\IDE\\VC\\Auxiliary\\VS\\include -I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt -external:I D:\\VS2019\\IDE\\VC\\Tools\\MSVC\\14.29.30133\\include -I D:\\VS2019\\IDE\\VC\\Tools\\MSVC\\14.29.30133\\include -external:I D:\\VS2019\\IDE\\VC\\Tools\\MSVC\\14.29.30133\\atlmfc\\include -I D:\\VS2019\\IDE\\VC\\Tools\\MSVC\\14.29.30133\\atlmfc\\include -external:I D:\\VS2019\\IDE\\VC\\Auxiliary\\VS\\include -I D:\\VS2019\\IDE\\VC\\Auxiliary\\VS\\include -external:I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt -I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt -external:I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\um -I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\um -external:I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\shared -I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\shared -external:I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\winrt -I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\winrt -external:I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\cppwinrt -I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\cppwinrt -external:I C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\Include\\um -I C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\Include\\um",
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/qfui3d/qfui3d.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "md5": "12644eb88938054e94ac4d8c1c080137"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/qfui3d/qfui3d.h"
+          },
+          "hashes": {
+            "md5": "c978bbafa67382cb421f50f7f418c59d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/qfui3d/q3dctrl.h"
+          },
+          "hashes": {
+            "md5": "dcca5621b6b3703ab487cc476b85fd9c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/qfui3d/qfctrlbase3d.h"
+          },
+          "hashes": {
+            "md5": "eb16874ecb33ba2f5e835c674d97d51e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/qfui/qfuiwnd.h"
+          },
+          "hashes": {
+            "md5": "179c9762da76af00e5ec0fbaa23fa775"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/qfui/qfmsg.h"
+          },
+          "hashes": {
+            "md5": "4cfe2a1804e8c2d4b1a3df5bf1ae5014"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/qfui3d/qfgraph3d.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "md5": "4d8b9b225b2144f8581dd762105fdabe"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///D:/VSproject/QFUI/QFUI3D/QFGraph3D.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "md5": "442e9186c075541f00c33c9682d57f41"
+          }
+        }
+      ]
+    }
+  ]
+}

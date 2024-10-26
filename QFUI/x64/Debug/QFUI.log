@@ -1,0 +1,27 @@
+﻿  QWMange.cpp
+D:\VSproject\QFUI\QFUI\QWMange.cpp(319,71): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\VSproject\QFUI\QFUI\QWMange.cpp(343,71): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\VSproject\QFUI\QFUI\QWMange.cpp(346,49): warning C4806: “&”: 不安全操作: 从类型“bool”提升到类型“int”的值不能等于给定的常量
+D:\VSproject\QFUI\QFUI\QWMange.cpp(346,53): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  QWNDHandle.cpp
+D:\VSproject\QFUI\QFUI\QWNDHandle.h(112,44): warning C4311: “类型强制转换”: 从“const char *”到“int”的指针截断
+D:\VSproject\QFUI\QFUI\QWNDHandle.h(112,44): warning C4302: “类型强制转换”: 从“const char *”到“int”截断
+D:\VSproject\QFUI\QFUI\QWNDHandle.cpp(146,17): error C2065: “GWL_WNDPROC”: 未声明的标识符
+D:\VSproject\QFUI\QFUI\QWNDHandle.cpp(156,17): error C2065: “GWL_WNDPROC”: 未声明的标识符
+D:\VSproject\QFUI\QFUI\QWNDHandle.cpp(165,17): error C2065: “GWL_WNDPROC”: 未声明的标识符
+D:\VSproject\QFUI\QFUI\QWNDHandle.cpp(180,57): warning C4311: “类型强制转换”: 从“HWND”到“int”的指针截断
+D:\VSproject\QFUI\QFUI\QWNDHandle.cpp(180,57): warning C4302: “类型强制转换”: 从“HWND”到“int”截断
+D:\VSproject\QFUI\QFUI\QWNDHandle.cpp(180,98): warning C4311: “类型强制转换”: 从“HWND”到“int”的指针截断
+D:\VSproject\QFUI\QFUI\QWNDHandle.cpp(180,98): warning C4302: “类型强制转换”: 从“HWND”到“int”截断
+D:\VSproject\QFUI\QFUI\QWNDHandle.cpp(180,137): warning C4311: “类型强制转换”: 从“HWND”到“int”的指针截断
+D:\VSproject\QFUI\QFUI\QWNDHandle.cpp(180,137): warning C4302: “类型强制转换”: 从“HWND”到“int”截断
+D:\VSproject\QFUI\QFUI\QWNDHandle.cpp(188,49): error C2065: “GWL_WNDPROC”: 未声明的标识符
+D:\VSproject\QFUI\QFUI\QWNDHandle.cpp(190,51): error C2065: “GWL_WNDPROC”: 未声明的标识符
+D:\VSproject\QFUI\QFUI\QWNDHandle.cpp(191,53): error C2065: “GWL_WNDPROC”: 未声明的标识符
+D:\VSproject\QFUI\QFUI\QWNDHandle.cpp(194,9): error C2065: “GWL_WNDPROC”: 未声明的标识符
+D:\VSproject\QFUI\QFUI\QWNDHandle.cpp(197,9): error C2065: “GWL_WNDPROC”: 未声明的标识符
+D:\VSproject\QFUI\QFUI\QWNDHandle.cpp(201,9): error C2065: “GWL_WNDPROC”: 未声明的标识符
+D:\VSproject\QFUI\QFUI\QWNDHandle.cpp(212,9): error C2065: “GWL_WNDPROC”: 未声明的标识符
+D:\VSproject\QFUI\QFUI\QWNDHandle.cpp(220,9): error C2065: “GWL_WNDPROC”: 未声明的标识符
+  正在生成代码...
+D:\VSproject\QFUI\QFUI\QWMange.cpp(620): error C4716: “QWMange::__MsgHandle”: 必须返回一个值

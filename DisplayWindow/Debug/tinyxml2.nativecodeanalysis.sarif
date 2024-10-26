@@ -1,0 +1,394 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26812",
+          "message": {
+            "text": "枚举类型“tinyxml2::XMLError”未设定范围。相比于 \"enum\"，首选 \"enum class\" (Enum.3)。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/VSproject/QFUI/DisplayWindow/tinyxml2.h"
+                },
+                "region": {
+                  "startLine": 1167,
+                  "startColumn": 13,
+                  "endLine": 1167,
+                  "endColumn": 28
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?IntValue@XMLAttribute@tinyxml2@@QBEHXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26812",
+          "message": {
+            "text": "枚举类型“tinyxml2::XMLElement::ElementClosingType”未设定范围。相比于 \"enum\"，首选 \"enum class\" (Enum.3)。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/VSproject/QFUI/DisplayWindow/tinyxml2.h"
+                },
+                "region": {
+                  "startLine": 1680,
+                  "startColumn": 13,
+                  "endLine": 1680,
+                  "endColumn": 20
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?ClosingType@XMLElement@tinyxml2@@QBE?AW4ElementClosingType@12@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26812",
+          "message": {
+            "text": "枚举类型“tinyxml2::Whitespace”未设定范围。相比于 \"enum\"，首选 \"enum class\" (Enum.3)。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/VSproject/QFUI/DisplayWindow/tinyxml2.h"
+                },
+                "region": {
+                  "startLine": 1796,
+                  "startColumn": 13,
+                  "endLine": 1796,
+                  "endColumn": 20
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?WhitespaceMode@XMLDocument@tinyxml2@@QBE?AW4Whitespace@2@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26812",
+          "message": {
+            "text": "枚举类型“tinyxml2::StrPair::Mode”未设定范围。相比于 \"enum\"，首选 \"enum class\" (Enum.3)。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/VSproject/QFUI/DisplayWindow/tinyxml2.cpp"
+                },
+                "region": {
+                  "startLine": 1252,
+                  "startColumn": 25,
+                  "endLine": 1252,
+                  "endColumn": 89
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?ParseDeep@XMLText@tinyxml2@@MAEPADPADPAVStrPair@2@PAH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C33010",
+          "message": {
+            "text": "已取消选中充当索引的枚举 errorID 的下限。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/VSproject/QFUI/DisplayWindow/tinyxml2.cpp"
+                },
+                "region": {
+                  "startLine": 2538,
+                  "startColumn": 33,
+                  "endLine": 2538,
+                  "endColumn": 52
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?ErrorIDToName@XMLDocument@tinyxml2@@SAPBDW4XMLError@2@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "未初始化变量 tinyxml2::DynArray<char,20>::_pool。始终初始化成员变量(type.6)。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/VSproject/QFUI/DisplayWindow/tinyxml2.h"
+                },
+                "region": {
+                  "startLine": 207,
+                  "startColumn": 9,
+                  "endLine": 207,
+                  "endColumn": 9
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0?$DynArray@D$0BE@@tinyxml2@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "tinyxml2::DynArray<char,20>::_pool"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "未初始化变量 tinyxml2::DynArray<char const *,10>::_pool。始终初始化成员变量(type.6)。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/VSproject/QFUI/DisplayWindow/tinyxml2.h"
+                },
+                "region": {
+                  "startLine": 207,
+                  "startColumn": 9,
+                  "endLine": 207,
+                  "endColumn": 9
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0?$DynArray@PBD$09@tinyxml2@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "tinyxml2::DynArray<char const *,10>::_pool"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "未初始化变量 tinyxml2::DynArray<tinyxml2::XMLNode *,10>::_pool。始终初始化成员变量(type.6)。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/VSproject/QFUI/DisplayWindow/tinyxml2.h"
+                },
+                "region": {
+                  "startLine": 207,
+                  "startColumn": 9,
+                  "endLine": 207,
+                  "endColumn": 9
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0?$DynArray@PAVXMLNode@tinyxml2@@$09@tinyxml2@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "tinyxml2::DynArray<tinyxml2::XMLNode *,10>::_pool"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "未初始化变量 tinyxml2::DynArray<tinyxml2::MemPoolT<52>::Block *,10>::_pool。始终初始化成员变量(type.6)。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/VSproject/QFUI/DisplayWindow/tinyxml2.h"
+                },
+                "region": {
+                  "startLine": 207,
+                  "startColumn": 9,
+                  "endLine": 207,
+                  "endColumn": 9
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0?$DynArray@PAUBlock@?$MemPoolT@$0DE@@tinyxml2@@$09@tinyxml2@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "tinyxml2::DynArray<tinyxml2::MemPoolT<52>::Block *,10>::_pool"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "未初始化变量 tinyxml2::DynArray<tinyxml2::MemPoolT<56>::Block *,10>::_pool。始终初始化成员变量(type.6)。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/VSproject/QFUI/DisplayWindow/tinyxml2.h"
+                },
+                "region": {
+                  "startLine": 207,
+                  "startColumn": 9,
+                  "endLine": 207,
+                  "endColumn": 9
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0?$DynArray@PAUBlock@?$MemPoolT@$0DI@@tinyxml2@@$09@tinyxml2@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "tinyxml2::DynArray<tinyxml2::MemPoolT<56>::Block *,10>::_pool"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "未初始化变量 tinyxml2::DynArray<tinyxml2::MemPoolT<40>::Block *,10>::_pool。始终初始化成员变量(type.6)。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/VSproject/QFUI/DisplayWindow/tinyxml2.h"
+                },
+                "region": {
+                  "startLine": 207,
+                  "startColumn": 9,
+                  "endLine": 207,
+                  "endColumn": 9
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0?$DynArray@PAUBlock@?$MemPoolT@$0CI@@tinyxml2@@$09@tinyxml2@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "tinyxml2::DynArray<tinyxml2::MemPoolT<40>::Block *,10>::_pool"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "未初始化变量 tinyxml2::DynArray<tinyxml2::MemPoolT<60>::Block *,10>::_pool。始终初始化成员变量(type.6)。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/VSproject/QFUI/DisplayWindow/tinyxml2.h"
+                },
+                "region": {
+                  "startLine": 207,
+                  "startColumn": 9,
+                  "endLine": 207,
+                  "endColumn": 9
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0?$DynArray@PAUBlock@?$MemPoolT@$0DM@@tinyxml2@@$09@tinyxml2@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "tinyxml2::DynArray<tinyxml2::MemPoolT<60>::Block *,10>::_pool"
+          }
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.29.30146.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "commandLine": "D:\\VS2019\\IDE\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX86\\x86\\c1xx.dll -ACf{1F7B090C-16DB-4822-966A-A93D26ED4681} -ACpmspft140.dll -Alint -D_PREFAST_ -D_AST_FE_ -Analyze -zm0x0122D1C0 -il C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\_CL_023a4026ast -typedil -f tinyxml2.cpp -Ze -D_MSC_EXTENSIONS -Zp8 -Gs -pc \\:/ -D_MSC_VER=1929 -D_MSC_FULL_VER=192930146 -D_MSC_BUILD=0 -D_WIN32 -D_M_IX86=600 -D_M_IX86_FP=2 -GR -D_CPPRTTI -nologo -W 3 -diagnostics:column -D_GUARDOVERFLOW_CRT_ALLOCATORS=1 -Ot -DCODE_ANALYSIS -DWIN32 -D_DEBUG -D_WINDOWS -D_MBCS -EHs -D_CPPUNWIND -EHc -D__MSVC_RUNTIME_CHECKS -RTCs -RTCu -MDd -D_DEBUG -D_MT -D_DLL -GS -D_M_FP_PRECISE -permissive- -Zc:wchar_t -Zc:forScope -std:c++20 -FoDebug\\tinyxml2.obj -FdDebug\\vc142.pdb -external:W 3 -Gd -analyze:projectdirectory D:\\VSproject\\QFUI\\DisplayWindow -analyze:rulesetdirectory ;D:\\VS2019\\IDE\\Team Tools\\Static Analysis Tools\\\\Rule Sets; -analyze:ruleset D:\\VS2019\\IDE\\Team Tools\\Static Analysis Tools\\Rule Sets\\NativeRecommendedRules.ruleset -analyze:quiet -analyze:plugin D:\\VS2019\\IDE\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX86\\x86\\EspXEngine.dll -FC -errorreport:prompt -I D:\\VS2019\\IDE\\VC\\Tools\\MSVC\\14.29.30133\\include -I D:\\VS2019\\IDE\\VC\\Tools\\MSVC\\14.29.30133\\atlmfc\\include -I D:\\VS2019\\IDE\\VC\\Auxiliary\\VS\\include -I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt -I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\um -I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\shared -I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\winrt -I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\cppwinrt -I C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\Include\\um -external:I D:\\VS2019\\IDE\\VC\\Tools\\MSVC\\14.29.30133\\include -I D:\\VS2019\\IDE\\VC\\Tools\\MSVC\\14.29.30133\\include -external:I D:\\VS2019\\IDE\\VC\\Tools\\MSVC\\14.29.30133\\atlmfc\\include -I D:\\VS2019\\IDE\\VC\\Tools\\MSVC\\14.29.30133\\atlmfc\\include -external:I D:\\VS2019\\IDE\\VC\\Auxiliary\\VS\\include -I D:\\VS2019\\IDE\\VC\\Auxiliary\\VS\\include -external:I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt -I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt -external:I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\um -I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\um -external:I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\shared -I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\shared -external:I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\winrt -I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\winrt -external:I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\cppwinrt -I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\cppwinrt -external:I C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\Include\\um -I C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\Include\\um",
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///D:/VSproject/QFUI/DisplayWindow/tinyxml2.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "md5": "3e0518e5682672296e10eb5ef651f493"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///D:/VSproject/QFUI/DisplayWindow/tinyxml2.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "md5": "c5a7a33731891b3a08ec7ca722bdeb63"
+          }
+        }
+      ]
+    }
+  ]
+}

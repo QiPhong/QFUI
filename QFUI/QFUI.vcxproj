@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>16.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{39b704e7-d459-4589-b21c-524f8b0e21f6}</ProjectGuid>
+    <RootNamespace>QFUI</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>QWNDHandle</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <IncludePath>$(WindowsSDK_IncludePath);$(VC_IncludePath);$(SolutionDir)packages\cairo_static.1.15.4.9\build\native\include;$(SolutionDir)packages\libpng_static.1.4.1.2\build\native\include;$(SolutionDir)packages\pixman_static.0.32.4.6\build\native\include;$(SolutionDir)packages\zlib_static.1.2.11.1\build\native\include;$(IncludePath)</IncludePath>
+    <LibraryPath>$(SolutionDir)packages\cairo_static.1.15.4.9\build\native\lib\Win32\v142\Debug\MultiThreadedDebug;$(SolutionDir)packages\libpng_static.1.4.1.2\build\native\lib\Win32\v142\Debug\MultiThreadedDebug;$(SolutionDir)packages\pixman_static.0.32.4.6\build\native\lib\Win32\v142\Debug\MultiThreadedDebug;$(SolutionDir)packages\zlib_static.1.2.11.1\build\native\lib\Win32\v142\Debug\MultiThreadedDebug;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <IncludePath>$(WindowsSDK_IncludePath);$(VC_IncludePath);$(SolutionDir)packages\cairo_static.1.15.4.9\build\native\include;$(SolutionDir)packages\libpng_static.1.4.1.2\build\native\include;$(SolutionDir)packages\pixman_static.0.32.4.6\build\native\include;$(SolutionDir)packages\zlib_static.1.2.11.1\build\native\include;$(IncludePath)</IncludePath>
+    <LibraryPath>$(SolutionDir)packages\cairo_static.1.15.4.9\build\native\lib\Win32\v142\Release\MultiThreaded;$(SolutionDir)packages\libpng_static.1.4.1.2\build\native\lib\Win32\v142\Release\MultiThreaded;$(SolutionDir)packages\pixman_static.0.32.4.6\build\native\lib\Win32\v142\Release\MultiThreaded;$(SolutionDir)packages\zlib_static.1.2.11.1\build\native\lib\Win32\v142\Release\MultiThreaded;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;QFUI_EXPORTS;_WINDOWS;_USRDLL;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
+      <LanguageStandard>stdcpp20</LanguageStandard>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableUAC>false</EnableUAC>
+      <ModuleDefinitionFile>Source.def</ModuleDefinitionFile>
+      <AdditionalDependencies>cairo.lib;libpng.lib;pixman.lib;zlib.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;QFUI_EXPORTS;_WINDOWS;_USRDLL;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
+      <CallingConvention>Cdecl</CallingConvention>
+      <LanguageStandard>stdcpp20</LanguageStandard>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableUAC>false</EnableUAC>
+      <ModuleDefinitionFile>Source.def</ModuleDefinitionFile>
+      <AdditionalDependencies>cairo.lib;libpng.lib;pixman.lib;zlib.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;QFUI_EXPORTS;_WINDOWS;_USRDLL;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
+      <LanguageStandard>stdcpp20</LanguageStandard>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableUAC>false</EnableUAC>
+      <ModuleDefinitionFile>Source.def</ModuleDefinitionFile>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;QFUI_EXPORTS;_WINDOWS;_USRDLL;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableUAC>false</EnableUAC>
+      <ModuleDefinitionFile>Source.def</ModuleDefinitionFile>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="caicoAlgorithm.h" />
+    <ClInclude Include="framework.h" />
+    <ClInclude Include="QFCATLCtrl.h" />
+    <ClInclude Include="QFdef.h" />
+    <ClInclude Include="QFMsg.h" />
+    <ClInclude Include="QFMsgModule.h" />
+    <ClInclude Include="QFNormallyCtrl.h" />
+    <ClInclude Include="QFPButton.h" />
+    <ClInclude Include="QFPopDialog.h" />
+    <ClInclude Include="QFTabs.h" />
+    <ClInclude Include="QFUIBase.h" />
+    <ClInclude Include="QFValuation.h" />
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="QFButton.h" />
+    <ClInclude Include="QFCtrlBase.h" />
+    <ClInclude Include="QFCtrlListener.h" />
+    <ClInclude Include="QFEdit.h" />
+    <ClInclude Include="QFKeyValueTransform.h" />
+    <ClInclude Include="QFLineChart.h" />
+    <ClInclude Include="QFPictureBox.h" />
+    <ClInclude Include="QFProgressBarCar.h" />
+    <ClInclude Include="QFReportForm.h" />
+    <ClInclude Include="QFUI.h" />
+    <ClInclude Include="QFUIWND.h" />
+    <ClInclude Include="QWMange.h" />
+    <ClInclude Include="QWNDHandle.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="caicoAlgorithm.cpp" />
+    <ClCompile Include="dllmain.cpp" />
+    <ClCompile Include="QFCATLCtrl.cpp" />
+    <ClCompile Include="QFMsgModule.cpp" />
+    <ClCompile Include="QFNormallyCtrl.cpp" />
+    <ClCompile Include="pch.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="QFButton.cpp" />
+    <ClCompile Include="QFCtrlBase.cpp" />
+    <ClCompile Include="QFCtrlListener.cpp" />
+    <ClCompile Include="QFEdit.cpp" />
+    <ClCompile Include="QFLineChart.cpp" />
+    <ClCompile Include="QFPButton.cpp" />
+    <ClCompile Include="QFPictureBox.cpp" />
+    <ClCompile Include="QFPopDialog.cpp" />
+    <ClCompile Include="QFProgressBarCar.cpp" />
+    <ClCompile Include="QFReportForm.cpp" />
+    <ClCompile Include="QFTabs.cpp" />
+    <ClCompile Include="QFUI.cpp" />
+    <ClCompile Include="QFUIBase.cpp" />
+    <ClCompile Include="QFUIWND.cpp" />
+    <ClCompile Include="QWMange.cpp" />
+    <ClCompile Include="QWNDHandle.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Source.def" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\QFSource\QFSource.vcxproj">
+      <Project>{61e7ec40-e361-43e3-83d9-4cc158d0c8d7}</Project>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+    <Import Project="..\packages\pixman_static.0.32.4.6\build\native\pixman_static.targets" Condition="Exists('..\packages\pixman_static.0.32.4.6\build\native\pixman_static.targets')" />
+    <Import Project="..\packages\zlib_static.1.2.11.1\build\native\zlib_static.targets" Condition="Exists('..\packages\zlib_static.1.2.11.1\build\native\zlib_static.targets')" />
+    <Import Project="..\packages\libpng_static.1.4.1.2\build\native\libpng_static.targets" Condition="Exists('..\packages\libpng_static.1.4.1.2\build\native\libpng_static.targets')" />
+    <Import Project="..\packages\cairo_static.1.15.4.9\build\native\cairo_static.targets" Condition="Exists('..\packages\cairo_static.1.15.4.9\build\native\cairo_static.targets')" />
+  </ImportGroup>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>这台计算机上缺少此项目引用的 NuGet 程序包。使用“NuGet 程序包还原”可下载这些程序包。有关更多信息，请参见 http://go.microsoft.com/fwlink/?LinkID=322105。缺少的文件是 {0}。</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\pixman_static.0.32.4.6\build\native\pixman_static.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\pixman_static.0.32.4.6\build\native\pixman_static.targets'))" />
+    <Error Condition="!Exists('..\packages\zlib_static.1.2.11.1\build\native\zlib_static.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\zlib_static.1.2.11.1\build\native\zlib_static.targets'))" />
+    <Error Condition="!Exists('..\packages\libpng_static.1.4.1.2\build\native\libpng_static.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\libpng_static.1.4.1.2\build\native\libpng_static.targets'))" />
+    <Error Condition="!Exists('..\packages\cairo_static.1.15.4.9\build\native\cairo_static.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\cairo_static.1.15.4.9\build\native\cairo_static.targets'))" />
+  </Target>
+</Project>

@@ -1,0 +1,2 @@
+D:\VSproject\QFUI\Debug\QFUI3D.dll.lastcodeanalysissucceeded
+D:\VSproject\QFUI\QFUI3D\Debug\NativeCodeAnalysis.read.1.tlog

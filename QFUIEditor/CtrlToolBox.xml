@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<!--奇风UI编辑器工具箱控件配置-->
+<!--工具箱主题必须CtrlToolBox（目前有且只能有一个），name随意设置-->
+<CtrlToolBox name="控件工具箱">
+    <!--每一个并行节点都是一个控件属性，控件节点元素名为：CTRL-->
+    <!--属性有name：在工具箱显示的文本；创建控件文本 createText：用来创建控件是传入的文本-->
+    <CTRL name="按钮" createText="QFButton" />
+    <CTRL name="按钮2" createText="QFPButton"/>
+    <CTRL name="输入文本框" createText="QFEdit"/>
+    <CTRL name="报表框" createText="QFReportForm"/>
+    <CTRL name="图片框" createText="QFPictureBox"/>
+    <CTRL name="汽车进度条" createText="QFProgressBarCar"/>
+    <CTRL name="线性图表框" createText="QFLineChart"/>
+    <CTRL name="多页标签" createText="QFTabs"/>
+    <CTRL name="宁德时代柱状图" createText="QFCATLBarChart"/>
+    <CTRL name="宁德时代温度图表" createText="QFCATLTempeChart"/>
+    <CTRL name="抽屉控件" createText="QFDrawer"/>
+    <CTRL name="水平布局器" createText="QFHLayout"/>
+    <CTRL name="垂直布局器" createText="QFVLayout"/>
+    <CTRL name="平铺布局器" createText="QFTLayout"/>
+    <CTRL name="静态文本框" createText="QFStaticText"/>
+    <CTRL name="开关控件" createText="QFSwitch"/>
+    <CTRL name="滑块" createText="QFSlider"/>
+    <CTRL name="进度条" createText="QFProgress"/>
+    <CTRL name="颜色框" createText="QFColorBox"/>
+    <CTRL name="下拉列表框" createText="QFSelect"/>
+</CtrlToolBox>

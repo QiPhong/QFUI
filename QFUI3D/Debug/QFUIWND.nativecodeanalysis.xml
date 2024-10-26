@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\VSproject\QFUI\QFUI\</FILEPATH>
+      <FILENAME>QFTabs.h</FILENAME>
+      <LINE>22</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>未初始化变量 QTabsProperties::width。始终初始化成员变量(type.6)。</DESCRIPTION>
+    <FUNCTION>QTabsProperties::{ctor}</FUNCTION>
+    <DECORATED>??0QTabsProperties@@QAE@XZ</DECORATED>
+    <FUNCLINE>22</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>QTabsProperties::width</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\VSproject\QFUI\QFUI\</FILEPATH>
+      <FILENAME>QFTabs.h</FILENAME>
+      <LINE>22</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>未初始化变量 QTabsProperties::hight。始终初始化成员变量(type.6)。</DESCRIPTION>
+    <FUNCTION>QTabsProperties::{ctor}</FUNCTION>
+    <DECORATED>??0QTabsProperties@@QAE@XZ</DECORATED>
+    <FUNCLINE>22</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>QTabsProperties::hight</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\VSproject\QFUI\QFUI\</FILEPATH>
+      <FILENAME>QFTabs.h</FILENAME>
+      <LINE>22</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>未初始化变量 QTabsProperties::roundedRect。始终初始化成员变量(type.6)。</DESCRIPTION>
+    <FUNCTION>QTabsProperties::{ctor}</FUNCTION>
+    <DECORATED>??0QTabsProperties@@QAE@XZ</DECORATED>
+    <FUNCLINE>22</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>QTabsProperties::roundedRect</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

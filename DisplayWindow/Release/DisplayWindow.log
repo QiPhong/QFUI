@@ -1,0 +1,236 @@
+﻿  demo.cpp
+  demo1.cpp
+  DLLImportQWND.cpp
+D:\VSproject\QFUI\DisplayWindow\DLLImportQWND.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFUIWND.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  main.cpp
+D:\VSproject\QFUI\DisplayWindow\QFCtrlListener.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFUIWND.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\DLLImportQWND.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QWMange.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QWNDHandle.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFReportForm.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFObjPtrMange.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFUIRenderer.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFProgressBarCar.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFButton.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFTabs.h(3,1): warning C4005: “DEF_FUN_NAME”: 宏重定义
+D:\VSproject\QFUI\DisplayWindow\QFLineChart.h(16): message : 参见“DEF_FUN_NAME”的前一个定义
+D:\VSproject\QFUI\DisplayWindow\QFUIBase.h(10,1): warning C4005: “__FunTypeDef”: 宏重定义
+D:\VSproject\QFUI\DisplayWindow\DLLImportQWND.h(9): message : 参见“__FunTypeDef”的前一个定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.h(42,1): warning C4005: “__FunTypeDef”: 宏重定义
+D:\VSproject\QFUI\DisplayWindow\QFUIBase.h(10): message : 参见“__FunTypeDef”的前一个定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.h(321,1): warning C4005: “__QFLAG”: 宏重定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.h(290): message : 参见“__QFLAG”的前一个定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.h(392,1): warning C4005: “__QFLAG”: 宏重定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.h(321): message : 参见“__QFLAG”的前一个定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.h(483,1): warning C4005: “__QFLAG”: 宏重定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.h(392): message : 参见“__QFLAG”的前一个定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.h(518,1): warning C4005: “__QFLAG”: 宏重定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.h(483): message : 参见“__QFLAG”的前一个定义
+  QFCATLCtrl.cpp
+D:\VSproject\QFUI\DisplayWindow\DLLImportQWND.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFUIWND.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  QF3DCtrl.cpp
+D:\VSproject\QFUI\DisplayWindow\DLLImportQWND.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFUIWND.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  QFButton.cpp
+D:\VSproject\QFUI\DisplayWindow\QFButton.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\DLLImportQWND.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFUIWND.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFCtrlListener.H(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  QFCtrlListener.cpp
+D:\VSproject\QFUI\DisplayWindow\QFCtrlListener.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFUIWND.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  QFEdit.cpp
+D:\VSproject\QFUI\DisplayWindow\DLLImportQWND.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFUIWND.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  QFFrequentlyCtrl.cpp
+D:\VSproject\QFUI\DisplayWindow\DLLImportQWND.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFUIWND.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFbutton.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFCtrlListener.H(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFUIBase.h(10,1): warning C4005: “__FunTypeDef”: 宏重定义
+D:\VSproject\QFUI\DisplayWindow\DLLImportQWND.h(9): message : 参见“__FunTypeDef”的前一个定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.h(42,1): warning C4005: “__FunTypeDef”: 宏重定义
+D:\VSproject\QFUI\DisplayWindow\QFUIBase.h(10): message : 参见“__FunTypeDef”的前一个定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.h(321,1): warning C4005: “__QFLAG”: 宏重定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.h(290): message : 参见“__QFLAG”的前一个定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.h(392,1): warning C4005: “__QFLAG”: 宏重定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.h(321): message : 参见“__QFLAG”的前一个定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.h(483,1): warning C4005: “__QFLAG”: 宏重定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.h(392): message : 参见“__QFLAG”的前一个定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.h(518,1): warning C4005: “__QFLAG”: 宏重定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.h(483): message : 参见“__QFLAG”的前一个定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.cpp(1039,1): warning C4005: “__QFLAG”: 宏重定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.h(518): message : 参见“__QFLAG”的前一个定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.cpp(1209,1): warning C4005: “__QFLAG”: 宏重定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.cpp(1039): message : 参见“__QFLAG”的前一个定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.cpp(1320,1): warning C4005: “__QFLAG”: 宏重定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.cpp(1209): message : 参见“__QFLAG”的前一个定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.cpp(1321,1): warning C4005: “__FUNCTINNAME”: 宏重定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.cpp(1210): message : 参见“__FUNCTINNAME”的前一个定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.cpp(1322,1): warning C4005: “__FUNCTINNAME_STR”: 宏重定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.cpp(1211): message : 参见“__FUNCTINNAME_STR”的前一个定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.cpp(1323,1): warning C4005: “__GDefineFun_NM”: 宏重定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.cpp(1212): message : 参见“__GDefineFun_NM”的前一个定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.cpp(1403,1): warning C4005: “__QFLAG”: 宏重定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.cpp(1320): message : 参见“__QFLAG”的前一个定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.cpp(1404,1): warning C4005: “__FUNCTINNAME”: 宏重定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.cpp(1321): message : 参见“__FUNCTINNAME”的前一个定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.cpp(1405,1): warning C4005: “__FUNCTINNAME_STR”: 宏重定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.cpp(1322): message : 参见“__FUNCTINNAME_STR”的前一个定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.cpp(1406,1): warning C4005: “__GDefineFun_NM”: 宏重定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.cpp(1323): message : 参见“__GDefineFun_NM”的前一个定义
+  QFLineChart.cpp
+D:\VSproject\QFUI\DisplayWindow\DLLImportQWND.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFUIWND.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  QFPictureBox.cpp
+D:\VSproject\QFUI\DisplayWindow\DLLImportQWND.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFUIWND.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  QFProgressBarCar.cpp
+D:\VSproject\QFUI\DisplayWindow\QFProgressBarCar.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\DLLImportQWND.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFUIWND.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  QFReportForm.cpp
+D:\VSproject\QFUI\DisplayWindow\QFReportForm.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\DLLImportQWND.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFUIWND.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  QFTabs.cpp
+D:\VSproject\QFUI\DisplayWindow\DLLImportQWND.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFUIWND.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  QFUIBase.cpp
+D:\VSproject\QFUI\DisplayWindow\DLLImportQWND.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFUIWND.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFUIBase.h(10,1): warning C4005: “__FunTypeDef”: 宏重定义
+D:\VSproject\QFUI\DisplayWindow\DLLImportQWND.h(9): message : 参见“__FunTypeDef”的前一个定义
+D:\VSproject\QFUI\DisplayWindow\QFUIBase.cpp(59,1): warning C4005: “__FUNCTINNAME”: 宏重定义
+D:\VSproject\QFUI\DisplayWindow\QFUIBase.cpp(2): message : 参见“__FUNCTINNAME”的前一个定义
+D:\VSproject\QFUI\DisplayWindow\QFUIBase.cpp(60,1): warning C4005: “__FUNCTINNAME_STR”: 宏重定义
+D:\VSproject\QFUI\DisplayWindow\QFUIBase.cpp(3): message : 参见“__FUNCTINNAME_STR”的前一个定义
+D:\VSproject\QFUI\DisplayWindow\QFUIBase.cpp(61,1): warning C4005: “__GDefineFun_”: 宏重定义
+D:\VSproject\QFUI\DisplayWindow\QFUIBase.cpp(4): message : 参见“__GDefineFun_”的前一个定义
+  QFUIRenderer.cpp
+D:\VSproject\QFUI\DisplayWindow\QFUIRenderer.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFUIWND.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QWMange.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\DLLImportQWND.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFCtrlListener.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QWNDHandle.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFReportForm.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFObjPtrMange.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  QFWindow.cpp
+  QFXmlRelolver.cpp
+D:\VSproject\QFUI\DisplayWindow\QFCtrlListener.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFUIWND.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\DLLImportQWND.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QWMange.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QWNDHandle.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFReportForm.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFObjPtrMange.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFUIRenderer.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFProgressBarCar.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFButton.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFTabs.h(3,1): warning C4005: “DEF_FUN_NAME”: 宏重定义
+D:\VSproject\QFUI\DisplayWindow\QFLineChart.h(16): message : 参见“DEF_FUN_NAME”的前一个定义
+D:\VSproject\QFUI\DisplayWindow\QFUIBase.h(10,1): warning C4005: “__FunTypeDef”: 宏重定义
+D:\VSproject\QFUI\DisplayWindow\DLLImportQWND.h(9): message : 参见“__FunTypeDef”的前一个定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.h(42,1): warning C4005: “__FunTypeDef”: 宏重定义
+D:\VSproject\QFUI\DisplayWindow\QFUIBase.h(10): message : 参见“__FunTypeDef”的前一个定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.h(321,1): warning C4005: “__QFLAG”: 宏重定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.h(290): message : 参见“__QFLAG”的前一个定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.h(392,1): warning C4005: “__QFLAG”: 宏重定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.h(321): message : 参见“__QFLAG”的前一个定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.h(483,1): warning C4005: “__QFLAG”: 宏重定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.h(392): message : 参见“__QFLAG”的前一个定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.h(518,1): warning C4005: “__QFLAG”: 宏重定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.h(483): message : 参见“__QFLAG”的前一个定义
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(77,23): warning C4244: “=”: 从“double”转换到“REAL”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(78,23): warning C4244: “=”: 从“double”转换到“REAL”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(321,22): warning C4244: “初始化”: 从“double”转换到“unsigned char”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(554,32): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(615,32): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(618,33): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(621,36): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(624,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(627,34): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(658,32): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(907,35): warning C4244: “参数”: 从“long”转换到“unsigned char”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(927,24): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(937,23): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(941,23): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(945,27): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(957,26): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(970,36): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(1052,27): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(1056,21): warning C4244: “初始化”: 从“unsigned long”转换到“unsigned char”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(1060,21): warning C4244: “初始化”: 从“unsigned long”转换到“unsigned char”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(1101,36): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(1177,22): warning C4244: “初始化”: 从“unsigned long”转换到“unsigned char”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(1186,22): warning C4244: “=”: 从“unsigned long”转换到“unsigned char”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(1227,27): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(1231,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(1235,30): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(1239,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(1451,23): warning C4244: “=”: 从“double”转换到“REAL”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(1452,23): warning C4244: “=”: 从“double”转换到“REAL”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(1778,22): warning C4244: “初始化”: 从“double”转换到“unsigned char”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(2072,32): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(2150,32): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(2153,33): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(2156,36): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(2159,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(2162,34): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(2212,32): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(2542,35): warning C4244: “参数”: 从“long”转换到“unsigned char”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(2562,24): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(2572,23): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(2576,23): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(2580,23): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(2599,36): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(2715,27): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(2719,21): warning C4244: “初始化”: 从“unsigned long”转换到“unsigned char”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(2723,21): warning C4244: “初始化”: 从“unsigned long”转换到“unsigned char”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(2764,36): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(2873,22): warning C4244: “初始化”: 从“unsigned long”转换到“unsigned char”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(2882,22): warning C4244: “=”: 从“unsigned long”转换到“unsigned char”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(2923,27): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(2927,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(2931,30): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSproject\QFUI\DisplayWindow\QFXmlRelolver.cpp(2935,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  QWMange.cpp
+D:\VSproject\QFUI\DisplayWindow\QWMange.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\DLLImportQWND.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFUIWND.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFCtrlListener.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在编译...
+  QWNDHandle.cpp
+D:\VSproject\QFUI\DisplayWindow\QWNDHandle.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\DLLImportQWND.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFUIWND.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QWMange.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFCtrlListener.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFReportForm.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QWNDHandle.cpp(143,42): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+D:\VSproject\QFUI\DisplayWindow\QFProgressBarCar.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFButton.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VSproject\QFUI\DisplayWindow\QFTabs.h(3,1): warning C4005: “DEF_FUN_NAME”: 宏重定义
+D:\VSproject\QFUI\DisplayWindow\QFLineChart.h(16): message : 参见“DEF_FUN_NAME”的前一个定义
+D:\VSproject\QFUI\DisplayWindow\QFUIBase.h(10,1): warning C4005: “__FunTypeDef”: 宏重定义
+D:\VSproject\QFUI\DisplayWindow\DLLImportQWND.h(9): message : 参见“__FunTypeDef”的前一个定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.h(42,1): warning C4005: “__FunTypeDef”: 宏重定义
+D:\VSproject\QFUI\DisplayWindow\QFUIBase.h(10): message : 参见“__FunTypeDef”的前一个定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.h(321,1): warning C4005: “__QFLAG”: 宏重定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.h(290): message : 参见“__QFLAG”的前一个定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.h(392,1): warning C4005: “__QFLAG”: 宏重定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.h(321): message : 参见“__QFLAG”的前一个定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.h(483,1): warning C4005: “__QFLAG”: 宏重定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.h(392): message : 参见“__QFLAG”的前一个定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.h(518,1): warning C4005: “__QFLAG”: 宏重定义
+D:\VSproject\QFUI\DisplayWindow\QFFrequentlyCtrl.h(483): message : 参见“__QFLAG”的前一个定义
+  tinyxml2.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 1014 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  DisplayWindow.vcxproj -> D:\VSproject\QFUI\Release\DisplayWindow.exe

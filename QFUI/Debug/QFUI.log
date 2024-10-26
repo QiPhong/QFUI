@@ -1,0 +1,341 @@
+﻿  QFNormallyCtrl.cpp
+D:\VSproject\QFUI\QFUI\QFPButton.h(11,28): warning C4305: “初始化”: 从“double”到“float”截断
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.h(665,23): warning C4305: “初始化”: 从“double”到“float”截断
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.h(864,20): warning C4305: “初始化”: 从“double”到“float”截断
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(155,15): warning C4244: “初始化”: 从“INT”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(158,23): warning C4305: “初始化”: 从“double”到“float”截断
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(159,89): warning C4244: “参数”: 从“INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(175,42): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(176,44): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(182,23): warning C4305: “初始化”: 从“double”到“float”截断
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(191,70): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(191,67): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(216,55): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(217,57): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(287,85): warning C4305: “参数”: 从“double”到“FLOAT”截断
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(290,87): warning C4305: “参数”: 从“double”到“FLOAT”截断
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(291,90): warning C4305: “参数”: 从“double”到“FLOAT”截断
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(292,90): warning C4305: “参数”: 从“double”到“FLOAT”截断
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(293,90): warning C4305: “参数”: 从“double”到“FLOAT”截断
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(295,89): warning C4305: “参数”: 从“double”到“FLOAT”截断
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(297,76): warning C4244: “参数”: 从“INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(297,62): warning C4244: “参数”: 从“INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(298,23): warning C4244: “初始化”: 从“INT”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(301,31): warning C4305: “初始化”: 从“double”到“float”截断
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(310,97): warning C4244: “参数”: 从“INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(327,64): warning C4305: “参数”: 从“double”到“FLOAT”截断
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(357,49): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(358,51): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(364,31): warning C4305: “初始化”: 从“double”到“float”截断
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(370,103): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(374,101): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(384,134): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(384,124): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(400,34): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(403,65): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(406,65): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(414,114): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(414,64): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(415,116): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(415,61): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(423,120): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(423,65): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(424,116): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(424,61): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(462,63): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(463,65): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(473,117): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(476,115): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(485,146): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(485,136): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(536,15): warning C4244: “初始化”: 从“INT”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(539,23): warning C4305: “初始化”: 从“double”到“float”截断
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(540,89): warning C4244: “参数”: 从“INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(555,42): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(556,44): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(562,23): warning C4305: “初始化”: 从“double”到“float”截断
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(589,55): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(590,57): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(635,15): warning C4244: “初始化”: 从“INT”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(638,23): warning C4305: “初始化”: 从“double”到“float”截断
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(639,89): warning C4244: “参数”: 从“INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(655,42): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(656,44): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(662,23): warning C4305: “初始化”: 从“double”到“float”截断
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(671,72): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(671,68): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(697,55): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(698,57): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(708,84): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(708,80): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(1253,56): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(1258,47): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(1263,57): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(1268,47): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(1274,47): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(1275,48): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(1446,32): warning C4244: “=”: 从“float”转换到“INT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(1447,40): warning C4244: “=”: 从“float”转换到“INT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(1500,40): warning C4244: “=”: 从“float”转换到“INT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(1552,41): warning C4244: “=”: 从“float”转换到“INT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(1605,32): warning C4244: “=”: 从“float”转换到“INT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(1606,39): warning C4244: “=”: 从“float”转换到“INT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(1636,39): warning C4244: “=”: 从“float”转换到“INT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(1637,40): warning C4244: “=”: 从“float”转换到“INT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(1767,76): warning C4244: “参数”: 从“INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(1767,62): warning C4244: “参数”: 从“INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(1786,75): warning C4244: “参数”: 从“const _Ty”转换到“FLOAT”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(1786,31): warning C4244: “参数”: 从“const _Ty”转换到“FLOAT”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(1785,102): warning C4244: “参数”: 从“const _Ty”转换到“FLOAT”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(1785,58): warning C4244: “参数”: 从“const _Ty”转换到“FLOAT”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(1970,37): warning C4018: “<”: 有符号/无符号不匹配
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(2294,40): warning C4244: “=”: 从“float”转换到“INT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(2374,40): warning C4244: “=”: 从“float”转换到“INT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(2402,24): warning C4018: “<”: 有符号/无符号不匹配
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(2407,23): warning C4244: “参数”: 从“__int64”转换到“unsigned int”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(2415,30): warning C4018: “<”: 有符号/无符号不匹配
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(2449,43): warning C4244: “参数”: 从“__int64”转换到“INT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(2449,35): warning C4244: “参数”: 从“__int64”转换到“INT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(2655,71): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(2679,71): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(2682,49): warning C4806: “&”: 不安全操作: 从类型“bool”提升到类型“int”的值不能等于给定的常量
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(2682,53): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(2826,32): warning C4244: “=”: 从“float”转换到“INT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(3502,71): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(3526,71): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(3529,49): warning C4806: “&”: 不安全操作: 从类型“bool”提升到类型“int”的值不能等于给定的常量
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(3529,53): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(3674,33): warning C4244: “=”: 从“float”转换到“INT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(3806,41): warning C4244: “=”: 从“float”转换到“INT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(3884,41): warning C4244: “=”: 从“float”转换到“INT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(3912,24): warning C4018: “<”: 有符号/无符号不匹配
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(3917,23): warning C4244: “参数”: 从“__int64”转换到“unsigned int”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(3925,30): warning C4018: “<”: 有符号/无符号不匹配
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(3959,43): warning C4244: “参数”: 从“__int64”转换到“INT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(3959,35): warning C4244: “参数”: 从“__int64”转换到“INT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(4434,36): warning C4244: “参数”: 从“__int64”转换到“INT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(4434,28): warning C4244: “参数”: 从“__int64”转换到“INT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(4492,9): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(4567,9): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(4593,9): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(4665,111): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(4666,118): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(4667,70): warning C4244: “参数”: 从“INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(4667,56): warning C4244: “参数”: 从“INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(4926,97): warning C4244: “参数”: 从“unsigned int”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(4928,70): warning C4244: “参数”: 从“INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(4928,56): warning C4244: “参数”: 从“INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(5300,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(5304,66): warning C4244: “参数”: 从“INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(5304,52): warning C4244: “参数”: 从“INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(5313,106): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(5319,59): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(5319,51): warning C4244: “参数”: 从“INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(5321,116): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(5324,57): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(5324,49): warning C4244: “参数”: 从“INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(5324,39): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(5332,26): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(5334,26): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(5340,13): warning C4305: “参数”: 从“double”到“FLOAT”截断
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(5383,68): warning C4305: “参数”: 从“double”到“FLOAT”截断
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(5408,69): warning C4305: “参数”: 从“double”到“FLOAT”截断
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(5436,71): warning C4244: “参数”: 从“const _Ty”转换到“FLOAT”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(5436,27): warning C4244: “参数”: 从“const _Ty”转换到“FLOAT”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(5435,98): warning C4244: “参数”: 从“const _Ty”转换到“FLOAT”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(5435,54): warning C4244: “参数”: 从“const _Ty”转换到“FLOAT”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(5622,38): warning C4244: “=”: 从“float”转换到“INT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(5640,39): warning C4244: “=”: 从“float”转换到“INT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(5715,56): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(5720,57): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(5983,31): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(6023,30): warning C4018: “<”: 有符号/无符号不匹配
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(6201,71): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(6226,71): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(6229,49): warning C4806: “&”: 不安全操作: 从类型“bool”提升到类型“int”的值不能等于给定的常量
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(6229,53): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(6426,26): warning C4244: “初始化”: 从“int”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(6446,30): warning C4244: “初始化”: 从“int”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(6447,29): warning C4244: “初始化”: 从“const INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(6448,30): warning C4244: “初始化”: 从“const INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(6461,56): warning C4244: “参数”: 从“const INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(6469,76): warning C4244: “参数”: 从“const INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(6490,30): warning C4244: “初始化”: 从“int”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(6491,29): warning C4244: “初始化”: 从“const INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(6492,30): warning C4244: “初始化”: 从“const INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(6503,55): warning C4244: “参数”: 从“const INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(6518,39): warning C4244: “参数”: 从“const INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(6564,32): warning C4244: “初始化”: 从“FLOAT”转换到“int”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(6582,32): warning C4244: “初始化”: 从“FLOAT”转换到“int”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(6614,17): warning C4305: “参数”: 从“double”到“FLOAT”截断
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(6652,96): warning C4305: “参数”: 从“double”到“FLOAT”截断
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(6683,22): warning C4244: “初始化”: 从“int”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(6684,21): warning C4244: “初始化”: 从“const INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(6685,22): warning C4244: “初始化”: 从“const INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(6695,47): warning C4244: “参数”: 从“FLOAT”转换到“INT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(6695,35): warning C4244: “参数”: 从“FLOAT”转换到“INT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(6695,20): warning C4244: “参数”: 从“FLOAT”转换到“INT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(6701,22): warning C4244: “初始化”: 从“int”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(6702,21): warning C4244: “初始化”: 从“const INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(6703,22): warning C4244: “初始化”: 从“const INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(6712,45): warning C4244: “参数”: 从“FLOAT”转换到“INT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(6712,31): warning C4244: “参数”: 从“FLOAT”转换到“INT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(6712,23): warning C4244: “参数”: 从“FLOAT”转换到“INT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(6726,27): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(6729,54): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(6974,109): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(6978,77): warning C4244: “参数”: 从“INT”转换到“Gdiplus::REAL”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(6984,30): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(6991,116): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(6999,39): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7043,101): warning C4244: “参数”: 从“INT”转换到“Gdiplus::REAL”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7049,30): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7056,116): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7064,39): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7134,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7140,78): warning C4244: “参数”: 从“INT”转换到“Gdiplus::REAL”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7140,133): warning C4244: “参数”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7140,130): warning C4244: “参数”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7148,23): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7171,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7177,104): warning C4244: “参数”: 从“INT”转换到“Gdiplus::REAL”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7177,132): warning C4244: “参数”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7177,128): warning C4244: “参数”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7185,23): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7214,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7223,78): warning C4244: “参数”: 从“INT”转换到“Gdiplus::REAL”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7223,134): warning C4244: “参数”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7223,130): warning C4244: “参数”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7226,40): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7227,69): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7241,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7250,105): warning C4244: “参数”: 从“INT”转换到“Gdiplus::REAL”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7250,134): warning C4244: “参数”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7250,130): warning C4244: “参数”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7253,40): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7254,71): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7417,18): warning C4018: “<”: 有符号/无符号不匹配
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7459,1): warning C4005: “__EXTERN_FUN”: 宏重定义
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(6823): message : 参见“__EXTERN_FUN”的前一个定义
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7534,54): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7563,54): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7749,100): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7751,43): warning C4244: “参数”: 从“INT”转换到“Gdiplus::REAL”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7751,29): warning C4244: “参数”: 从“INT”转换到“Gdiplus::REAL”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7763,46): warning C4244: “=”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7797,112): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7803,37): warning C4244: “初始化”: 从“INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7803,51): warning C4244: “初始化”: 从“INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7851,47): warning C4244: “=”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7873,112): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7879,47): warning C4244: “初始化”: 从“INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7879,61): warning C4244: “初始化”: 从“INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7938,108): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7944,33): warning C4244: “初始化”: 从“INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7944,47): warning C4244: “初始化”: 从“INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8155,1): warning C4005: “__EXTERN_FUN”: 宏重定义
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(7459): message : 参见“__EXTERN_FUN”的前一个定义
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8225,36): warning C4244: “=”: 从“double”转换到“INT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8276,56): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8277,67): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8278,68): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8279,63): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8345,36): warning C4244: “=”: 从“double”转换到“INT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8494,102): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8495,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8498,36): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8499,50): warning C4244: “=”: 从“INT”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8502,51): warning C4244: “=”: 从“INT”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8506,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8511,28): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8511,19): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8537,64): warning C4244: “初始化”: 从“INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8537,78): warning C4244: “初始化”: 从“INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8614,1): warning C4005: “__EXTERN_FUN”: 宏重定义
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8155): message : 参见“__EXTERN_FUN”的前一个定义
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8688,42): warning C4244: “初始化”: 从“INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8688,56): warning C4244: “初始化”: 从“INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8689,33): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8690,30): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8702,116): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8703,46): warning C4244: “初始化”: 从“INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8703,60): warning C4244: “初始化”: 从“INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8717,114): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8718,114): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8729,48): warning C4244: “初始化”: 从“LONG”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8732,35): warning C4244: “=”: 从“INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8750,76): warning C4305: “参数”: 从“double”到“FLOAT”截断
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8767,27): warning C4244: “参数”: 从“INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8766,27): warning C4244: “参数”: 从“INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8776,78): warning C4244: “初始化”: 从“INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8777,65): warning C4244: “初始化”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8777,99): warning C4244: “初始化”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8779,47): warning C4244: “初始化”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8779,75): warning C4244: “初始化”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8779,104): warning C4244: “初始化”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8779,132): warning C4244: “初始化”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8787,116): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8788,116): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8847,69): warning C4305: “参数”: 从“double”到“FLOAT”截断
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8864,76): warning C4244: “初始化”: 从“INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8864,90): warning C4244: “初始化”: 从“INT”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8865,26): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8865,72): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8868,30): warning C4244: “初始化”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8872,112): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8872,57): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8873,108): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8873,53): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8881,108): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8881,53): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8882,108): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8882,53): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(9066,15): warning C4018: “>”: 有符号/无符号不匹配
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(9079,15): warning C4018: “>”: 有符号/无符号不匹配
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(9129,15): warning C4018: “>”: 有符号/无符号不匹配
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(9140,15): warning C4018: “>”: 有符号/无符号不匹配
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(9154,15): warning C4018: “>”: 有符号/无符号不匹配
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(9184,15): warning C4018: “>”: 有符号/无符号不匹配
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(9203,15): warning C4018: “>”: 有符号/无符号不匹配
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(9222,15): warning C4018: “>”: 有符号/无符号不匹配
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(9239,1): warning C4005: “__EXTERN_FUN”: 宏重定义
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(8614): message : 参见“__EXTERN_FUN”的前一个定义
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(2868): warning C4715: “QHLayout::RemoveCtrl”: 不是所有的控件路径都返回值
+D:\VSproject\QFUI\QFUI\QFNormallyCtrl.cpp(3722): warning C4715: “QVLayout::RemoveCtrl”: 不是所有的控件路径都返回值
+  QFUI.vcxproj -> D:\VSproject\QFUI\Debug\QWNDHandle.dll

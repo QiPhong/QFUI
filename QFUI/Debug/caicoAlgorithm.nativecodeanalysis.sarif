@@ -1,0 +1,492 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.29.30146.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "commandLine": "D:\\VS2019\\IDE\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX86\\x86\\c1xx.dll -ACf{1F7B090C-16DB-4822-966A-A93D26ED4681} -ACpmspft140.dll -Alint -D_PREFAST_ -D_AST_FE_ -Analyze -zm0x00B2D1C0 -il C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\_CL_18236a32ast -typedil -f caicoAlgorithm.cpp -Ze -D_MSC_EXTENSIONS -Zp8 -Gs -pc \\:/ -D_MSC_VER=1929 -D_MSC_FULL_VER=192930146 -D_MSC_BUILD=0 -D_WIN32 -D_M_IX86=600 -D_M_IX86_FP=2 -GR -D_CPPRTTI -I D:\\VSproject\\QFUI\\packages\\cairo_static.1.15.4.9\\build\\native\\include\\ -I D:\\VSproject\\QFUI\\packages\\libpng_static.1.4.1.2\\build\\native\\include\\ -I D:\\VSproject\\QFUI\\packages\\zlib_static.1.2.11.1\\build\\native\\include\\ -I D:\\VSproject\\QFUI\\packages\\pixman_static.0.32.4.6\\build\\native\\include\\ -I D:\\VSproject\\vcpkg\\installed\\x86-windows\\include -nologo -W 3 -diagnostics:column -D_GUARDOVERFLOW_CRT_ALLOCATORS=1 -Ot -DCODE_ANALYSIS -DWIN32 -D_DEBUG -DQFUI_EXPORTS -D_WINDOWS -D_USRDLL -D_WINDLL -D_UNICODE -DUNICODE -EHs -D_CPPUNWIND -EHc -D__MSVC_RUNTIME_CHECKS -RTCs -RTCu -MDd -D_DEBUG -D_MT -D_DLL -GS -D_M_FP_PRECISE -permissive- -Zc:wchar_t -Zc:forScope -std:c++20 -FoDebug\\caicoAlgorithm.obj -FdDebug\\vc142.pdb -external:W 3 -Gd -analyze:projectdirectory D:\\VSproject\\QFUI\\QFUI -analyze:rulesetdirectory ;D:\\VS2019\\IDE\\Team Tools\\Static Analysis Tools\\\\Rule Sets; -analyze:ruleset D:\\VS2019\\IDE\\Team Tools\\Static Analysis Tools\\Rule Sets\\NativeRecommendedRules.ruleset -analyze:quiet -analyze:plugin D:\\VS2019\\IDE\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX86\\x86\\EspXEngine.dll -FC -errorreport:prompt -I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\um -I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\shared -I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\winrt -I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\cppwinrt -I C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\Include\\um -I D:\\VS2019\\IDE\\VC\\Tools\\MSVC\\14.29.30133\\include -I D:\\VS2019\\IDE\\VC\\Tools\\MSVC\\14.29.30133\\atlmfc\\include -I D:\\VS2019\\IDE\\VC\\Auxiliary\\VS\\include -I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt -I D:\\VSproject\\QFUI\\packages\\cairo_static.1.15.4.9\\build\\native\\include -I D:\\VSproject\\QFUI\\packages\\libpng_static.1.4.1.2\\build\\native\\include -I D:\\VSproject\\QFUI\\packages\\pixman_static.0.32.4.6\\build\\native\\include -I D:\\VSproject\\QFUI\\packages\\zlib_static.1.2.11.1\\build\\native\\include -I D:\\VS2019\\IDE\\VC\\Tools\\MSVC\\14.29.30133\\include -I D:\\VS2019\\IDE\\VC\\Tools\\MSVC\\14.29.30133\\atlmfc\\include -I D:\\VS2019\\IDE\\VC\\Auxiliary\\VS\\include -I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt -I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\um -I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\shared -I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\winrt -I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\cppwinrt -I C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\Include\\um -I D:\\VSproject\\vcpkg\\installed\\x86-windows\\include -external:I D:\\VS2019\\IDE\\VC\\Tools\\MSVC\\14.29.30133\\include -I D:\\VS2019\\IDE\\VC\\Tools\\MSVC\\14.29.30133\\include -external:I D:\\VS2019\\IDE\\VC\\Tools\\MSVC\\14.29.30133\\atlmfc\\include -I D:\\VS2019\\IDE\\VC\\Tools\\MSVC\\14.29.30133\\atlmfc\\include -external:I D:\\VS2019\\IDE\\VC\\Auxiliary\\VS\\include -I D:\\VS2019\\IDE\\VC\\Auxiliary\\VS\\include -external:I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt -I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt -external:I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\um -I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\um -external:I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\shared -I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\shared -external:I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\winrt -I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\winrt -external:I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\cppwinrt -I D:\\Windows Kits\\10\\Include\\10.0.19041.0\\cppwinrt -external:I C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\Include\\um -I C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\Include\\um -external:I D:\\VSproject\\vcpkg\\installed\\x86-windows\\include -I D:\\VSproject\\vcpkg\\installed\\x86-windows\\include",
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///D:/VSproject/QFUI/QFUI/QWMange.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "md5": "5c267050ba7e676d2935db1ce7fd1408"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///D:/VSproject/QFUI/QFUI/QWMange.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "md5": "3adc5c4d1d373dce3abb6f20966cf52b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/qfui/qfuiwnd.h"
+          },
+          "hashes": {
+            "md5": "58ffcefdf4e50a45f1755ac7624ae9b9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/qfui/qfmsg.h"
+          },
+          "hashes": {
+            "md5": "47d072acdde1ea6bf90e5507d0d004dc"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/qfui/qfdef.h"
+          },
+          "hashes": {
+            "md5": "65026421ba262a747bc91a1994a20f04"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/qfui/qfctrllistener.h"
+          },
+          "hashes": {
+            "md5": "da0a451433bf7c3f1284ac54681b4512"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/qfui/qfmsgmodule.h"
+          },
+          "hashes": {
+            "md5": "84f476b89f9b6bb634f835490b3590f5"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/qfui/qfpopdialog.h"
+          },
+          "hashes": {
+            "md5": "f62516d36f383f2f8bc8ef1499774d7c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/qfui/qfctrlbase.h"
+          },
+          "hashes": {
+            "md5": "6854b83ab4db9fdb134486e6d74e745f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/qfui/qfuibase.h"
+          },
+          "hashes": {
+            "md5": "b2ba8aa77ec3b8f8ce13aa0c6e3ddfaa"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/qfui/qfbutton.h"
+          },
+          "hashes": {
+            "md5": "e384d3764493fbeb9e608593ef778dc3"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/qfui/pch.h"
+          },
+          "hashes": {
+            "md5": "bc0074a6e0650e2fedfb6f341ddc2143"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/qfui/framework.h"
+          },
+          "hashes": {
+            "md5": "806c57c064483217f29bfb0eb7b19f80"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///D:/VSproject/QFUI/QFUI/QFTabs.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "md5": "89434e04521d0c51c61c46ec75d8c38e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/qfui/qfuiwnd.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "md5": "cface61e7b231978bdc38408e6140246"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/qfui/qfui.h"
+          },
+          "hashes": {
+            "md5": "4f5cc9ee66be57a5a3f58bc9f66beb8f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/qfui/qfreportform.h"
+          },
+          "hashes": {
+            "md5": "2515650d2d6d34f555119e6b236fea3e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/qfui/qfpicturebox.h"
+          },
+          "hashes": {
+            "md5": "49c06b3fa620536588bbe1bed3b193c0"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/qfui/qfedit.h"
+          },
+          "hashes": {
+            "md5": "774d1fe39687937a5cefe3b293554f16"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/qfui/qfkeyvaluetransform.h"
+          },
+          "hashes": {
+            "md5": "6da007e022062e7a52b9f731b020cd29"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/qfui/qfprogressbarcar.h"
+          },
+          "hashes": {
+            "md5": "dd421dabec308f34a273a10056e2e86c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/qfui/qfcatlctrl.h"
+          },
+          "hashes": {
+            "md5": "b86945aa7371bfbbe19a6f48a0f16edc"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/qfui/qfnormallyctrl.h"
+          },
+          "hashes": {
+            "md5": "4e7c3398a5fc804d4c4796546a9bfcda"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/packages/cairo_static.1.15.4.9/build/native/include/cairo.h"
+          },
+          "hashes": {
+            "md5": "758b2f2e0b0cbd2440d12d71ccf8dc8d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/packages/cairo_static.1.15.4.9/build/native/include/cairo-version.h"
+          },
+          "hashes": {
+            "md5": "e4d1ee6d3e209c09c415134d55a14d81"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/packages/cairo_static.1.15.4.9/build/native/include/cairo-features.h"
+          },
+          "hashes": {
+            "md5": "9a0fee20243f32ebd85c97c235be0a35"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/packages/cairo_static.1.15.4.9/build/native/include/cairo-deprecated.h"
+          },
+          "hashes": {
+            "md5": "cfa52bee933b8222ac26087316276036"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/qfui/qfpbutton.h"
+          },
+          "hashes": {
+            "md5": "613c8077ff8e982e50ac2bbb84286dd3"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/qfui/qflinechart.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "md5": "c892b0635137f459da14a4f4b5244529"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/qfui/qfuibase.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "md5": "2dce7623c6c16e3c394872e89f78a8d9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/qfui/qfui.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "md5": "16a4f518d8257e0ac260b06887760bf1"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///D:/VSproject/QFUI/QFUI/QFTabs.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "md5": "c61d0df35740f1a952cb0f2fb3b0dd5c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/qfui/qfreportform.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "md5": "6e9d867fd8b5140f8b1f5c65b7596b92"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///D:/VSproject/QFUI/QFUI/QFProgressBarCar.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "md5": "42bda9f78970c31240ee7cd73a281476"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/qfsource/resource.h"
+          },
+          "hashes": {
+            "md5": "753690ab5643ddc70853e8f440225970"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///D:/VSproject/QFUI/QFUI/QFPopDialog.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "md5": "ac87eace0866c333f098e2e41f61d908"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/qfui/qfpicturebox.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "md5": "8effff25cef98445f7b7ecd461e05e10"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///D:/VSproject/QFUI/QFUI/QFPButton.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "md5": "d3bb807d6142f9240e119c17ea2000df"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///D:/VSproject/QFUI/QFUI/QFLineChart.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "md5": "1663baa2739915d282c364068371ddb5"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/qfui/qfvaluation.h"
+          },
+          "hashes": {
+            "md5": "2b1854c12f9a26e53d9a20125bc44154"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///D:/VSproject/QFUI/QFUI/QFEdit.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "md5": "77ccd58c1caa66d64bbd8ee62feb07d7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/qfui/qfctrllistener.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "md5": "7bcb57c5e63fb4ae9042c14ded96c57e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///D:/VSproject/QFUI/QFUI/QFCtrlBase.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "md5": "369cd73dbf8c7ff51aaedce72c23aa90"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/qfui/qfbutton.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "md5": "693dc28cc4ec1bb28849d54b36289b12"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/qfui/qfmsgmodule.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "md5": "1a50d54c647935e75a5355a9941d650c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///D:/VSproject/QFUI/QFUI/QFCATLCtrl.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "md5": "0d27ef2fc30db425dd12625f121c0c7d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/qfui/dllmain.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "md5": "020e0927f60fe8c7c85f5939e083f68c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/qfui/caicoalgorithm.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "md5": "7fa37cea7bf78ffd1b2f6bd0e20c3824"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/vsproject/qfui/qfui/caicoalgorithm.h"
+          },
+          "hashes": {
+            "md5": "a4e68c1569423bac321b72aa6231d9fd"
+          }
+        }
+      ]
+    }
+  ]
+}

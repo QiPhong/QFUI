@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<!--奇风UI窗口布局文件-->
+<!--窗口布局主体必须QWMange（目前有且只能有一个），name随意设置-->
+<QWMange name="窗口管理者">
+    <!--每一个并行节点都是一个控件，控件节点元素名为：控件名，如按钮：QButton-->
+    <!--控件属性有name：可以随意设置，尽量控件之间不要相同；Rect：控件矩形-->
+     <QFDrawer name="抽屉控件1" Rect="(10,10,300,300)" onSelected="DonSelect">
+        <Items>
+            <Category name="坤坤">
+                <Subkey name="唱"/>
+                <Subkey name="跳"/>
+                <Subkey name="rap"/>
+                <Subkey name="篮球"/>
+            </Category>
+            <Category name="五行">
+                <Subkey name="金"/>
+                <Subkey name="木"/>
+                <Subkey name="水"/>
+                <Subkey name="火"/>
+                <Subkey name="土"/>
+            </Category>
+        </Items>
+    </QFDrawer>
+    <QFStaticText name="静态文本框1" text="静态文本框" Rect="(910,410,100,50)" fontName="宋体" fontSize="12.0" fontColor="0xff000000"/>
+</QWMange>

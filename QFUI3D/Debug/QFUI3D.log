@@ -1,0 +1,84 @@
+﻿  pch.cpp
+  QFUIWND.cpp
+  dllmain.cpp
+  Q3DCtrl.cpp
+D:\VSproject\QFUI\QFUI3D\Q3DCtrl.cpp(44,35): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+  QFCtrlBase3D.cpp
+  QFGraph3D.cpp
+D:\VS2019\IDE\VC\Tools\MSVC\14.29.30133\include\triangle\triangle.h(260,1): warning C4005: “VOID”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(457): message : 参见“VOID”的前一个定义
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(77,32): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(345,24): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(345,16): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(433,17): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(433,14): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(437,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(438,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(472,9): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(473,9): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(474,9): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(548,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(583,3): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(582,3): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(581,3): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(594,16): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(592,16): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(602,24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(637,3): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(636,3): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(635,3): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(644,24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(678,3): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(677,3): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(676,3): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(687,3): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(753,53): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(756,58): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(756,29): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(767,42): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(771,52): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(779,42): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(842,30): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(847,52): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(859,30): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(924,36): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(930,52): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(942,36): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(998,48): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(1003,54): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(1003,44): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(1003,34): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(1020,39): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(1027,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(1032,40): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(1086,42): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(1090,54): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(1090,44): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(1090,34): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(1104,39): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(1113,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(1117,40): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(1172,42): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(1177,54): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(1177,44): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(1177,34): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(1195,43): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(1202,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(1207,44): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(1312,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  QFUI3D.cpp
+  正在运行 C/C++ 代码分析...
+  正在生成代码...
+D:\VSproject\QFUI\QFUI\QFUIWND.cpp(77): warning C4715: “QWND::GetSubCtrlCount”: 不是所有的控件路径都返回值
+  Libtriangle.lib(triangle.obj) : 找到 MSIL .netmodule 或使用 /GL 编译的模块；正在使用 /LTCG 重新启动链接；将 /LTCG 添加到链接命令行以改进链接器性能
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/LTCG”规范)
+    正在创建库 D:\VSproject\QFUI\Debug\QFUI3D.lib 和对象 D:\VSproject\QFUI\Debug\QFUI3D.exp
+MSVCRTD.lib(initializers.obj) : warning LNK4098: 默认库“msvcrt.lib”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  正在生成代码
+  已完成代码的生成
+  QFUI3D.vcxproj -> D:\VSproject\QFUI\Debug\QFUI3D.dll
+D:\VSproject\QFUI\QFUI\QFTabs.h(22): warning C26495: 未初始化变量 QTabsProperties::width。始终初始化成员变量(type.6)。
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.h(40): warning C26495: 未初始化变量 Q3DCurve::color1。始终初始化成员变量(type.6)。
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(459): warning C6386: 写入到“curve.link”时缓冲区溢出: 可写大小为“(unsigned int)*24”个字节，但可能写入了“96”个字节。
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(1277): warning C26451: 算术溢出: 使用 4 字节值上的运算符 - ，然后将结果转换到 8 字节值。在调用运算符 - 之前将值强制转换为宽类型可避免溢出(io.2)。
+D:\VSproject\QFUI\QFUI3D\QFGraph3D.cpp(1277): warning C26451: 算术溢出: 使用 4 字节值上的运算符 - ，然后将结果转换到 8 字节值。在调用运算符 - 之前将值强制转换为宽类型可避免溢出(io.2)。

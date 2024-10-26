@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="控件基础">
+      <UniqueIdentifier>{c8eb216b-aabc-4e4f-80ba-e909ec8f15ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="demo">
+      <UniqueIdentifier>{3c058a76-fc6f-412c-ac62-e097122f1b43}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="QFWindow.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="QFButton.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="QFProgressBarCar.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DLLImportQWND.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="QFCtrlListener.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="QFEdit.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="QFPictureBox.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="QFReportForm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="QWMange.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="QFLineChart.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="QFTabs.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="QF3DCtrl.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="QFCATLCtrl.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="QFFrequentlyCtrl.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="QFXmlRelolver.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxml2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="QFUIRenderer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="QWNDHandle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="QFUIBase.cpp">
+      <Filter>控件基础</Filter>
+    </ClCompile>
+    <ClCompile Include="demo.cpp">
+      <Filter>demo</Filter>
+    </ClCompile>
+    <ClCompile Include="demo1.cpp">
+      <Filter>demo</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="QFWindow.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="QWMange.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DLLImportQWND.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="QFUIWND.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="QFTypes.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="QFButton.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="QFCtrlListener.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="QFEdit.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="QFObjPtrMange.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="QFPictureBox.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="QFProgressBarCar.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="QFReportForm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="QFUI.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="QFUIRenderer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="QWNDHandle.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="QFLineChart.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="QFTabs.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="QF3DCtrl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="QFMsg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="QFCATLCtrl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="QFFrequentlyCtrl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="QFXmlRelolver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="tinyxml2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="QFUIBase.h">
+      <Filter>控件基础</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

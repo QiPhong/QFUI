@@ -1,0 +1,8 @@
+LIBRARY QWNDHandle
+EXPORTS
+CreaterAgentWnd
+BindPanel
+HookPanelPro
+GetPanelPro
+GetPanelHandle
+DestroyAgentWnd
